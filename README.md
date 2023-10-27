@@ -7,7 +7,7 @@ For any technical questions, please contact info@accelerynt.com
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAccelerynt-Security%2FAS-Revoke-Azure-AD-User-Session-From-Entity%2Fmain%2Fazuredeploy.json)
 [![Deploy to Azure Gov](https://aka.ms/deploytoazuregovbutton)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAccelerynt-Security%2FAS-Revoke-Azure-AD-User-Session-From-Entity%2Fmain%2Fazuredeploy.json)       
 
-This playbook is intended to be run from a Microsoft Sentinel Entity. It will look up the Azure AD users associated with the incident account entities and revoke their sessions.
+This playbook is intended to be run from a Microsoft Sentinel Entity. It will look up the Azure AD users associated with the account entities and revoke their sessions.
                                                                                                                                      
 ![RevokeUserSession_Demo_1](Images/RevokeUserSession_Demo_1.png)
 
