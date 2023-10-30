@@ -34,7 +34,7 @@ Click "**New registration**".
 
 ![RevokeUserSession_App_Registration_1](Images/RevokeUserSession_App_Registration_1.png)
 
-Enter "**AS-Revoke-Azure-AD-User-Session-From-Entity**" for the name, all else can be left as is. Click "**Register**"
+Enter "**AS-Revoke-Azure-AD-User-Session**" for the name, all else can be left as is. Click "**Register**"
 
 ![RevokeUserSession_App_Registration_2](Images/RevokeUserSession_App_Registration_2.png)
 
@@ -79,7 +79,7 @@ Navigate to an existing key vault or create a new one. From the key vault overvi
 
 ![RevokeUserSession_Key_Vault_1](Images/RevokeUserSession_Key_Vault_1.png)
 
-Choose a name for the secret, such as "**AS-Revoke-Azure-AD-User-Session-From-Entity--App-Registration-Client-Secret**", and enter the client secret copied in the [previous section](https://github.com/Accelerynt-Security/AS-Revoke-Azure-AD-User-Session-From-Entity#create-an-app-registration). All other settings can be left as is. Click "**Create**". 
+Choose a name for the secret, such as "**AS-Revoke-Azure-AD-User-Session--App-Registration-Client-Secret**", and enter the client secret copied in the [previous section](https://github.com/Accelerynt-Security/AS-Revoke-Azure-AD-User-Session-From-Entity#create-an-app-registration). All other settings can be left as is. Click "**Create**". 
 
 ![RevokeUserSession_Key_Vault_2](Images/RevokeUserSession_Key_Vault_2.png)
 
